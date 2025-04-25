@@ -1,7 +1,8 @@
 # Insight-Scope
 Insight Scope is a powerful news research tool designed to assist equity research analysts in efficiently finding and analyzing news articles. Built using LangChain, OpenAI API, and Streamlit, the tool enables users to query relevant news articles, extract meaningful content, perform sentiment analysis, and generate insightful questions. Additionally, the tool features user authentication, a data visualization dashboard for analyzing keyword usage, and export options to save your work in CSV or PDF format.
 
-# Features
+*Features*
+
 User Authentication:
 Login and sign-up functionality to manage user accounts securely.
 
